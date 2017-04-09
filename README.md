@@ -28,9 +28,10 @@ BA Hons Law
 
 #### Any other qualifications
 
-## Achievemnts and interests
+## Achievements and interests
+- •	I believe keeping fit is a great importance and attend the gym regularly.  I also train in Muay Thai and Jujitsu.
+- •	Took part and awarded the Duke of Edinburgh’s Bronze award
+- •	I volunteered for a three-month project in Tanzania with Raleigh ICS International
+- •	A Volunteer tutor for Kids Company and participate in various charity events such as Byte Night, Breast Cancer marathon and Moonwalk
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+ 
