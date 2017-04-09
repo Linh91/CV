@@ -1,46 +1,34 @@
-## Your Name
+## Ngoc Linh Sammy Ha
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+An enthusiastic and driven individual, keen learner and able to rise up to challenges outside of comfort zone.
 
 ## Skills
 
-#### This Skill
+#### Key Skills
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- Leading by generating enthusiasm for shared success
+- Thrives on demanding environments- creative approach to managing timescales and workloads.
+- Independently assessed as working well with all levels of staff, with a can do attitude
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+#### Additional Skills
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- •	Knowledge of Microsoft Office product lines and Adobe family such as Photoshop and InDesign
+- •	I am also fluent in Cantonese and also have a basic understanding of Vietnamese.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Middlesex University (2009 – 2013)
+BA Hons Law
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+#### Christ the King Sixth-Form College (2007 – 2009)
+3 A-levels Law, Sociology & Psychology
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
 #### Any other qualifications
 
-## Experience
+## Achievemnts and interests
 
 **Company Name** (start_date to end_date)    
 *Your job title*  
