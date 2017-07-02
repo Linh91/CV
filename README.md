@@ -1,6 +1,10 @@
 ## Ngoc Linh Sammy Ha
 
-An enthusiastic and driven individual, keen learner and able to rise up to challenges outside of comfort zone.
+An enthusiastic and driven individual who is able to rise up to challenges outside of her comfort zone. A keen learner with a desire for developing my programming and problem solving skills.
+
+My thirst for knowledge lead me to teach myself basic HTML and CSS in my spare time which I found to be mentally stimulating. I decided programming would be the future for me and began my journey with Makers Academy.
+
+The next phase of this journey is to become a **Full-Stack Developer** with Test Driven Development and extreme programming values.
 
 ## Skills
 
@@ -35,6 +39,7 @@ BA Hons Law
 ## Experience
 **Global Blue** (September 2012 to January 2017)    
 *Digital Assistant*<br />
+I was an integral individual to the Digital team with a variety of responsibilities.
 ##### Responsibilities - Ad Operations
 -	Setting up and trafficking adverts for client campaigns in DFP (DoubleClick for Publishers)
 -	Monitoring campaigns, implementing optimisations and forecasting inventory
