@@ -34,8 +34,9 @@ BA Hons Law
 #### Christ the King Sixth-Form College (2007 – 2009)
 3 A-levels Law, Sociology & Psychology
 
-## Achievements and interests
-- •	I believe keeping fit is a great importance and attend the gym regularly.  I also train in Muay Thai and Jujitsu.
-- •	Took part and awarded the Duke of Edinburgh’s Bronze award
-- •	I volunteered for a three-month project in Tanzania with Raleigh ICS International
-- •	A Volunteer tutor for Kids Company and participate in various charity events such as Byte Night, Breast Cancer marathon and Moonwalk
+## Interests
+I enjoy keeping active and believe that it's important for both the body and the mind. I strength train religiously and love trying out new activities. I am part of London Fight Factory were I train in Brazilian Jujitsu. I have taken part in obstacles such as Rough Runner and have survived charity runs.
+
+In my spare time I also enjoy reading crime novels, eating and socialising with my friends and family.
+
+I have a passion for traveling and a sense of adventure. I have been fortunate to have backpacked across the world. I also spent three life changing months volunteering in Tanzania where I was able to experience a world that was completely outside of my comfort zone. I left Tanzania with a more positive and grateful attitude to life.
