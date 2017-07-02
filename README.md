@@ -16,6 +16,20 @@ An enthusiastic and driven individual, keen learner and able to rise up to chall
 - •	Knowledge of Microsoft Office product lines and Adobe family such as Photoshop and InDesign
 - •	I am also fluent in Cantonese and also have a basic understanding of Vietnamese.
 
+## Experience
+**Global Blue** (September 2012 to January 2017)    
+*Digital Assistant*<br />
+##### Responsibilities - Ad Operations
+-	Setting up and trafficking adverts for client campaigns in DFP (DoubleClick for Publishers)
+-	Monitoring campaigns, implementing optimisations and forecasting inventory
+##### Responsibilities - Content Editor
+-	Providing Content Management System (Escenic) training and support to other teams
+-	Creating, optimizing and managing content for commercial microsites and digital campaigns
+##### Responsibilities - Web Development
+-	Responsible for maintaining the companies five in-house websites via the CMS
+-	Assisting the development team with website migration, design projects, cross-browser and quality assurance testing
+-	Maintenance of HTML pages using CSS
+
 
 ## Education
 #### Makers Academy (April to June 2017)
