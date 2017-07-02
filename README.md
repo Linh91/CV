@@ -30,6 +30,13 @@ An enthusiastic and driven individual, keen learner and able to rise up to chall
 -	Assisting the development team with website migration, design projects, cross-browser and quality assurance testing
 -	Maintenance of HTML pages using CSS
 
+**Freud's Communications** (April 2014 to May 2014)    
+*Public Relations Intern*<br />
+Developing and implementing PR campaigns and producing post-campaign reports for clients.
+
+**Raleigh International (Tanzania)** (June 2013 to September 2013)    
+*International Citizen Service*<br />
+Working within a team teaching and raising awareness of hygiene and sanitation through schools and community groups within rural villages.
 
 ## Education
 #### Makers Academy (April to June 2017)
