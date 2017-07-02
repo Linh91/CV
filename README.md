@@ -12,9 +12,25 @@ An enthusiastic and driven individual, keen learner and able to rise up to chall
 
 
 #### Additional Skills
-
 - •	Knowledge of Microsoft Office product lines and Adobe family such as Photoshop and InDesign
 - •	I am also fluent in Cantonese and also have a basic understanding of Vietnamese.
+
+## Education
+#### Makers Academy (April to June 2017)
+A selective 12 week intensive coding bootcamp.
+
+- Ability to work independently and solve problems
+- Passion for code
+- Ruby, Rails, Javascript, Node.js
+- OOP, TDD, MVC
+- Sinatra, DataMapper, PostgreSQL
+- RSpec, Capybara, Jasmine
+
+#### Middlesex University (2009 – 2013)
+BA Hons Law
+
+#### Christ the King Sixth-Form College (2007 – 2009)
+3 A-levels Law, Sociology & Psychology
 
 ## Experience
 **Global Blue** (September 2012 to January 2017)    
@@ -38,22 +54,6 @@ Developing and implementing PR campaigns and producing post-campaign reports for
 *International Citizen Service*<br />
 Working within a team teaching and raising awareness of hygiene and sanitation through schools and community groups within rural villages.
 
-## Education
-#### Makers Academy (April to June 2017)
-A selective 12 week intensive coding bootcamp.
-
-- Ability to work independently and solve problems
-- Passion for code
-- Ruby, Rails, Javascript, Node.js
-- OOP, TDD, MVC
-- Sinatra, DataMapper, PostgreSQL
-- RSpec, Capybara, Jasmine
-
-#### Middlesex University (2009 – 2013)
-BA Hons Law
-
-#### Christ the King Sixth-Form College (2007 – 2009)
-3 A-levels Law, Sociology & Psychology
 
 ## Interests
 I enjoy keeping active and believe that it's important for both the body and the mind. I strength train religiously and love trying out new activities. I am part of London Fight Factory were I train in Brazilian Jujitsu. I have taken part in obstacles such as Rough Runner and have survived charity runs.
