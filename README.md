@@ -73,9 +73,3 @@ I enjoy keeping active and believe that it's important for both the body and the
 In my spare time I also enjoy reading crime novels, eating and socialising with my friends and family.
 
 I have a passion for traveling and a sense of adventure. I have been fortunate to have backpacked many places across the world. I also spent three life changing months volunteering in Tanzania where I was able to experience a world that was completely outside of my comfort zone. I left Tanzania with a more positive and grateful attitude to life.
-
-Teamwork
-Fast learner
-Problem solver
-intellegence and drive
-self motivated learner
