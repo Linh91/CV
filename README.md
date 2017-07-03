@@ -11,7 +11,7 @@ The next phase of this journey is to become a **Full-Stack Developer** with Test
 ## Skills
 #### Fast learner
 
-began Makers Academy with basic HTML and CSS knowledge and completed the course by successfully building a [command-line web browser](https://github.com/ffasolin/web-browser) as my final project – This was considered an almost impossible project to complete by my peers.  As an intensive course, Makers Academy has shown me that I have the ability to pick up new technologies quickly and saw me learning Ruby and JavaScript to a high level within a short space of time.
+I began Makers Academy with basic HTML and CSS knowledge and completed the course by successfully building a [command-line web browser](https://github.com/ffasolin/web-browser) as my final project – This was considered an almost impossible project to complete by my peers.  As an intensive course, Makers Academy has shown me that I have the ability to pick up new technologies quickly and saw me learning Ruby and JavaScript to a high level within a short space of time.
 
 The ability to learn and pick up new skills quickly has also been apparent in my previous role where having initially joined as a Researcher, I was asked to cover the Digital Assistant role.  I quickly took to this role and was subsequently asked to join the team on a permanent basis.  Within a year I had further developed this role with multiple responsibilities and became an integral member of the team.
 
