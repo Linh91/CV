@@ -1,6 +1,6 @@
 ## Ngoc Linh Sammy Ha
 
-[Skills](#skills)    | [Education](#education)    | [Experience](#experience) |    [Interests](#interests) 
+[Skills](#skills)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| [Education](#education)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| [Experience](#experience)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|    [Interests](#interests) <br>
 An enthusiastic and driven individual who is able to rise up to challenges outside of her comfort zone. A keen learner with a desire for developing her programming and problem solving skills.
 
 My thirst for knowledge lead me to teach myself basic HTML and CSS in my spare time which I found to be mentally stimulating. I decided programming would be the future for me and began my journey with Makers Academy.
