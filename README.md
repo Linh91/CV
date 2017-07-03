@@ -1,6 +1,6 @@
 ## Ngoc Linh Sammy Ha
 
-An enthusiastic and driven individual who is able to rise up to challenges outside of her comfort zone. A keen learner with a desire for developing my programming and problem solving skills.
+An enthusiastic and driven individual who is able to rise up to challenges outside of her comfort zone. A keen learner with a desire for developing her programming and problem solving skills.
 
 My thirst for knowledge lead me to teach myself basic HTML and CSS in my spare time which I found to be mentally stimulating. I decided programming would be the future for me and began my journey with Makers Academy.
 
@@ -65,4 +65,4 @@ I enjoy keeping active and believe that it's important for both the body and the
 
 In my spare time I also enjoy reading crime novels, eating and socialising with my friends and family.
 
-I have a passion for traveling and a sense of adventure. I have been fortunate to have backpacked across the world. I also spent three life changing months volunteering in Tanzania where I was able to experience a world that was completely outside of my comfort zone. I left Tanzania with a more positive and grateful attitude to life.
+I have a passion for traveling and a sense of adventure. I have been fortunate to have backpacked many places across the world. I also spent three life changing months volunteering in Tanzania where I was able to experience a world that was completely outside of my comfort zone. I left Tanzania with a more positive and grateful attitude to life.
