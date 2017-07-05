@@ -28,7 +28,9 @@ I was able to put into use and develop this further with Makers which saw me wor
 
 #### Self motivated & driven
 
-HTML and CSS were beneficial to my previous role as Digital Assistant, so I took it upon myself to teach myself basic coding in my spare time. There I discovered my passion for programming. I found coding to be enjoyable and mentally stimulating. This lead me to pursue a career in development and join Makers Academy.
+I took it upon myself to teach myself basic coding in my spare time as I felt that HTML and CSS would be beneficial to my previous role as Digital Assistant and it wasn’t long before I discovered my  passion for programming.  This lead me on the path to Makers Academy to pursue a career in program development. 
+ 
+I find coding to be enjoyable and mentally stimulating and I am determined to make a successful career in it.
 
 ## Education
 #### Makers Academy (April to June 2017)
