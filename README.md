@@ -11,7 +11,7 @@ The next phase of this journey is to become a **Full-Stack Developer** with Test
 ## Skills
 #### Fast learner
 
-I began Makers Academy with basic HTML and CSS knowledge and completed the course by successfully building a [command-line web browser](https://github.com/ffasolin/web-browser) as my final project – This was considered an almost impossible project to complete by my peers.  As an intensive course, Makers Academy has shown me that I have the ability to pick up new technologies quickly and saw me learning Ruby and JavaScript to a high level within a short space of time.
+I began Makers Academy with basic HTML and CSS knowledge and completed the course by successfully building a [command-line web browser](https://github.com/ffasolin/web-browser) as my final project. This was considered an almost impossible project to complete by my peers. As an intensive course, Makers Academy has shown me that I have the ability to pick up new technologies quickly and saw me learning Ruby and JavaScript to a high level within a short space of time.
 
 The ability to learn and pick up new skills quickly has also been apparent in my previous role where having initially joined as a Researcher, I was asked to cover the Digital Assistant role.  I quickly took to this role and was subsequently asked to join the team on a permanent basis.  Within a year I had further developed this role with multiple responsibilities and became an integral member of the team.
 
@@ -19,7 +19,7 @@ The ability to learn and pick up new skills quickly has also been apparent in my
 
 When I began my role as a Digital Assistant there was also another new member of the team, both of us had no prior experience within this role. With great supportive teamwork, effective communication and positive attitudes we were able to master our responsibilities and rebuild the team productivity.
 
-During my time in Tanzania, I worked within a group of 15 people in a high pressure environment. With poor and difficult working conditions and short time scales we were able to work effectively together to build school latrines. This involved detailed planning and on going problem solving due to limited resources. I was selected as team leader to provide direction towards project goals  and to keep moral high given the work conditions.
+During my time in Tanzania, I worked with a group of 15 people to build school latrines in which I was selected as the team leader.  With poor working conditions and short time scales as well on-going problems, my job as team leader was to provide direction towards project goals and to keep moral high. I also got stuck in and together we achieved our goals in building school latrines.
 
 #### Self motivated and driven
 
