@@ -1,6 +1,6 @@
 ## Ngoc Linh Sammy Ha
 
-&emsp;&emsp;&emsp;[Skills](#skills)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Education](#education)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Experience](#experience)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    [Interests](#interests) <br>
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) <br>
 <br>
 An enthusiastic and driven individual who is able to rise up to challenges outside of her comfort zone. A keen learner with a desire for developing her programming and problem solving skills.
 
@@ -25,7 +25,6 @@ During my time in Tanzania, I worked with a group of 15 people to build school l
 
 For our final project at Makers Academy, myself and my team decided to build a command-line web browser. We choose a technically challenging project with the sole aim of learning. We knew it would be difficult and having no knowledge of how a web browser worked, we put in time and dedication to ensure we were learning and developing new skills and understanding. We started the project with no understanding of how a browser worked and what it consist of to a working command-line browser. We pushed through to the end, working on weekends and gain immense knowledge of the web browser.
 
-#### Problem solver
 
 ## Education
 #### Makers Academy (April to June 2017)
