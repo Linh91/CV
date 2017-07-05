@@ -1,7 +1,7 @@
 ## Ngoc Linh Sammy Ha
 
-_Jump to it!_
-&emsp;&emsp;&emsp;[Skills](#skills)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Education](#education)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Experience](#experience)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    [Interests](#interests) <br>
+_Jump to it!_<br>
+[Skills](#skills)  |  [Education](#education)  |  [Experience](#experience)  |  [Interests](#interests) <br>
 <br>
 An enthusiastic and driven individual who is able to rise up to challenges outside of her comfort zone. A keen learner with a desire for developing her programming and problem solving skills.
 
