@@ -1,6 +1,7 @@
 ## Ngoc Linh Sammy Ha
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) <br>
+_Jump to it!_
+&emsp;&emsp;&emsp;[Skills](#skills)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Education](#education)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Experience](#experience)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    [Interests](#interests) <br>
 <br>
 An enthusiastic and driven individual who is able to rise up to challenges outside of her comfort zone. A keen learner with a desire for developing her programming and problem solving skills.
 
@@ -11,20 +12,21 @@ The next phase of this journey is to become a **Full-Stack Developer** with Test
 ## Skills
 #### Fast learner
 
-I began Makers Academy with basic HTML and CSS knowledge and completed the course by successfully building a [command-line web browser](https://github.com/ffasolin/web-browser) as my final project. This was considered an almost impossible project to complete by my peers. As an intensive course, Makers Academy has shown me that I have the ability to pick up new technologies quickly and saw me learning Ruby and JavaScript to a high level within a short space of time.
+I began Makers Academy with basic HTML and CSS knowledge and completed the course by successfully building a [command-line web browser](https://github.com/ffasolin/web-browser) as my final project and this was considered an almost impossible project to complete by my peers. As an intensive course, Makers Academy has shown me that I have the ability to pick up new technologies quickly and which saw me learning Ruby and JavaScript to a high level within a short space of time.
 
-The ability to learn and pick up new skills quickly has also been apparent in my previous role where having initially joined as a Researcher, I was asked to cover the Digital Assistant role.  I quickly took to this role and was subsequently asked to join the team on a permanent basis.  Within a year I had further developed this role with multiple responsibilities and became an integral member of the team.
+The ability to learn and pick up new things quickly has been apparent in my previous work experience. Having started as a Digital Assistant with no prior experience I was about to adapt and pick up new concepts and technologies quickly. Within a short space of time my role developed multiple responsibilities across different areas (Web development, Ad ops, Content editor).
+
+I have no doubt that I will be able to bring this with me into my next role and I am confident that I will be able to get stuck in to whatever comes my way.
 
 #### Teamwork
 
-When I began my role as a Digital Assistant there was also another new member of the team, both of us had no prior experience within this role. With great supportive teamwork, effective communication and positive attitudes we were able to master our responsibilities and rebuild the team productivity.
+I believe good teamwork comes with positivity, support and good communication. Having worked in numerous high-pressured environment, I was able to stay open-minded and optimistic. I believe communication is key, the importance of this was apparent when working in group projects.  
 
-During my time in Tanzania, I worked with a group of 15 people to build school latrines in which I was selected as the team leader.  With poor working conditions and short time scales as well on-going problems, my job as team leader was to provide direction towards project goals and to keep moral high. I also got stuck in and together we achieved our goals in building school latrines.
+Having experience a close knit team whilst volunteering in Tanzania, I developed a strong set of skills in working with others as a part of a team. I was able to develop this further within Makers which saw me working is various teams using the practices of extreme programming values.
 
-#### Self motivated and driven
+#### Self motivated & driven
 
-For our final project at Makers Academy, myself and my team decided to build a command-line web browser. We choose a technically challenging project with the sole aim of learning. We knew it would be difficult and having no knowledge of how a web browser worked, we put in time and dedication to ensure we were learning and developing new skills and understanding. We started the project with no understanding of how a browser worked and what it consist of to a working command-line browser. We pushed through to the end, working on weekends and gain immense knowledge of the web browser.
-
+HTML and CSS were beneficial to my previous role as Digital Assistant, so I took it upon myself to teach myself basic coding in my spare time. I discovered my passion for programming, I found coding to be enjoyable and mentally stimulating. This lead me to pursue a career in development and join Makers Academy.
 
 ## Education
 #### Makers Academy (April to June 2017)
