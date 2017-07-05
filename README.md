@@ -2,7 +2,6 @@
 
 _Jump to it!_<br>
 [Skills](#skills)  |  [Education](#education)  |  [Experience](#experience)  |  [Interests](#interests) <br>
-<br>
 
 ---
 An enthusiastic and driven individual who is able to rise up to challenges outside of her comfort zone. A keen learner with a desire for developing her programming and problem solving skills.
