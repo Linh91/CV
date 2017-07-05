@@ -20,9 +20,11 @@ I have no doubt that I will be able to bring this with me into my next role and 
 
 #### Teamwork
 
-I believe good teamwork comes with positivity, support and good communication. Having worked in numerous high-pressured environment, I was able to stay open-minded and optimistic. I believe communication is key, the importance of this was apparent when working in group projects at Makers Academy.  
-
-Having experience a close knit team whilst volunteering in Tanzania, I developed a strong set of skills in working with others as part of a team. I was able to develop this further within Makers Academy which saw me working is various teams in an agile enviroment with extreme programming values.
+I believe the key ingredients of good teamwork is positivity, support and good communication.  For this reason, I strongly promote pair programming and extreme programming values.
+ 
+Having worked in a close knit team in gruelling conditions (whilst volunteering in Tanzania), I was able to put into practise the above and as group, we built latrines for the community within the short deadline set and this is one of my proudest achievements to date.
+ 
+I was able to put into use and develop this further with Makers which saw me working with various different people with different ability with success.
 
 #### Self motivated & driven
 
