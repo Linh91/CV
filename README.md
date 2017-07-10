@@ -6,15 +6,15 @@ _Jump to it!_<br>
 ---
 An enthusiastic and driven individual who is able to rise up to challenges outside of her comfort zone. A keen learner with a desire for developing her programming and problem solving skills.
 
-My thirst for knowledge led me to teach myself basic HTML and CSS in my spare time which I found to be mentally stimulating. I decided programming would be the future for me and began my journey with Makers Academy.
+My thirst for knowledge led me to teach myself basic HTML and CSS in my spare time which I found to be mentally stimulating. At this point, I decided programming would be the future for me and began my journey with Makers Academy.
 
 The next phase of this journey is to become a **Full-Stack Developer** in an exciting enviroment where I can continue to learn and further my skills.
 ## Skills
 #### Fast learner
 
-I began Makers Academy with basic HTML and CSS knowledge and completed the course by successfully building a [command-line web browser](https://github.com/ffasolin/web-browser) as my final project and this was considered an almost impossible project to complete by my peers. As an intensive course, Makers Academy has shown me that I have the ability to pick up new technologies quickly and which saw me learning Ruby and JavaScript to a high level within a short space of time.
+I began Makers Academy with basic HTML and CSS knowledge and completed the course, successfully building a [command-line web browser](https://github.com/ffasolin/web-browser) as my final project and this was considered an almost impossible project to complete by my peers. As an intensive course, Makers Academy has shown me that I have the ability to pick up new technologies quickly and which saw me learning Ruby and JavaScript to a high level within a short space of time.
 
-The ability to learn and pick up new things quickly has been apparent in my previous work experience. Having started as a Digital Assistant with no prior experience I was about to adapt and pick up new concepts and technologies quickly. Within a short space of time my role developed with multiple responsibilities across different areas (Web development, Ad ops, Content editor).
+The ability to learn and pick up new things quickly has been apparent in my previous work experience. Having started as a Digital Assistant with no prior experience I was able to adapt and pick up new concepts and technologies quickly. Within a short space of time my role developed with multiple responsibilities across different areas (Web development, Ad ops, Content editor) of the company.
 
 I have no doubt that I will be able to bring this with me into my next role and I am confident that I will be able to get stuck in to whatever comes my way.
 
@@ -75,8 +75,8 @@ Working within a team teaching and raising awareness of hygiene and sanitation t
 
 
 ## Interests
-I enjoy keeping active and believe that it's important for both the body and the mind. I strength train religiously and love trying out new activities. I am part of London Fight Factory were I train in Brazilian Jujitsu. I have taken part in obstacles such as Rough Runner and have survived charity runs.
+I enjoy keeping active and believe that it is important for both the body and the mind. I strength train religiously and love trying out new activities. I am part of London Fight Factory where I train in Brazilian Jujitsu. I have taken part in obstacles such as Rough Runner and have survived charity runs.
 
-In my spare time I also enjoy reading crime novels, eating and socialising with my friends and family.
+In my spare time I also enjoy reading crime novels and socialising with my friends and family. I would also consider myself as a keen foodie.
 
 I have a passion for traveling and a sense of adventure. I have been fortunate to have backpacked many places across the world. I also spent three life changing months volunteering in Tanzania where I was able to experience a world that was completely outside of my comfort zone. I left Tanzania with a more positive and grateful attitude to life.
