@@ -8,7 +8,7 @@ An enthusiastic and driven individual who is able to rise up to challenges outsi
 
 My thirst for knowledge led me to teach myself basic HTML and CSS in my spare time which I found to be mentally stimulating. At this point, I decided programming would be the future for me and began my journey with Makers Academy.
 
-The next phase of this journey is to become a **Full-Stack Developer** in an exciting enviroment where I can continue to learn and further my skills.
+The next phase of this journey is to become a **Full-Stack Developer** in an exciting environment where I can continue to learn and further my skills.
 ## Skills
 #### Fast learner
 
