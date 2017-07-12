@@ -28,9 +28,9 @@ Basic battle game, with a minimum of 2 players that are able to attack. Tested w
 ## Skills
 #### Fast learner
 
-I began Makers Academy with basic HTML and CSS knowledge and completed the course, successfully building a [command-line web browser](https://github.com/ffasolin/web-browser) as my final project and this was considered an almost impossible project to complete by my peers. Makers Academy has shown me that I have the ability to pick up new technologies quickly and which saw me learning Ruby and JavaScript to a high level within a short space of time.
+I began Makers Academy with basic HTML and CSS knowledge and completed the course, successfully building a [command-line web browser](https://github.com/ffasolin/web-browser) as my final project which was considered an almost impossible project to complete by my peers. 
 
-These has been apparent in my previous work experience. Having started as a Digital Assistant with no prior experience I was able to adapt and pick up new concepts and technologies quickly. Within a short space of time my role developed with multiple responsibilities across different areas (Web development, Ad ops, Content editor) of the company.
+Makers Academy has shown me that I have the ability to pick up new technologies quickly and which saw me learning Ruby and JavaScript to a high level within a short space of time. This was also apparent in my previous job where I started as a Digital Assistant with no experience and within a short space of time my role developed with multiple responsibilities across different areas (Web development, Ad ops, Content editor) of the company.
 
 #### Teamwork
 
@@ -42,7 +42,7 @@ I was able to put into use and develop this further with Makers which saw me wor
 
 #### Self motivated & driven
 
-I took it upon myself to teach myself basic coding in my spare time as I felt that HTML and CSS would be beneficial to my previous role as Digital Assistant and it wasn’t long before I discovered my  passion for programming. This lead me on the path to Makers Academy to pursue a career in program development. 
+I took it upon myself to learn basic coding in my spare time as I felt it would be beneficial to my job a Digital Assistant and it wasn’t long before I discovered my passion for programming. This lead me on the path to Makers Academy to pursue a career in web development. 
  
 I find coding to be enjoyable and mentally stimulating and I am determined to make a successful career in it.
 
@@ -53,7 +53,7 @@ A selective 12 week intensive coding bootcamp.
 - Ability to work independently and solve problems
 - Passion for code
 - Ruby, Rails, Javascript, Node.js
-- OOP, TDD, MVC
+- OOP, TDD, MVC, MVP
 - Sinatra, DataMapper, PostgreSQL
 - RSpec, Capybara, Jasmine
 
