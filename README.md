@@ -12,15 +12,13 @@ The next phase of this journey is to become a **Full-Stack Developer** in an exc
 ## Skills
 #### Fast learner
 
-I began Makers Academy with basic HTML and CSS knowledge and completed the course, successfully building a [command-line web browser](https://github.com/ffasolin/web-browser) as my final project and this was considered an almost impossible project to complete by my peers. As an intensive course, Makers Academy has shown me that I have the ability to pick up new technologies quickly and which saw me learning Ruby and JavaScript to a high level within a short space of time.
+I began Makers Academy with basic HTML and CSS knowledge and completed the course, successfully building a [command-line web browser](https://github.com/ffasolin/web-browser) as my final project and this was considered an almost impossible project to complete by my peers. Makers Academy has shown me that I have the ability to pick up new technologies quickly and which saw me learning Ruby and JavaScript to a high level within a short space of time.
 
-The ability to learn and pick up new things quickly has been apparent in my previous work experience. Having started as a Digital Assistant with no prior experience I was able to adapt and pick up new concepts and technologies quickly. Within a short space of time my role developed with multiple responsibilities across different areas (Web development, Ad ops, Content editor) of the company.
-
-I have no doubt that I will be able to bring this with me into my next role and I am confident that I will be able to get stuck in to whatever comes my way.
+These has been apparent in my previous work experience. Having started as a Digital Assistant with no prior experience I was able to adapt and pick up new concepts and technologies quickly. Within a short space of time my role developed with multiple responsibilities across different areas (Web development, Ad ops, Content editor) of the company.
 
 #### Teamwork
 
-I believe the key ingredients of good teamwork is positivity, support and good communication.  For this reason, I strongly promote pair programming and extreme programming values.
+I believe the key ingredients of good teamwork is positivity, support and good communication. For this reason, I strongly promote pair programming and extreme programming values.
  
 Having worked in a close knit team in gruelling conditions (whilst volunteering in Tanzania), I was able to put into practise the above and as group, we built latrines for the community within the short deadline set and this is one of my proudest achievements to date.
  
@@ -28,7 +26,7 @@ I was able to put into use and develop this further with Makers which saw me wor
 
 #### Self motivated & driven
 
-I took it upon myself to teach myself basic coding in my spare time as I felt that HTML and CSS would be beneficial to my previous role as Digital Assistant and it wasn’t long before I discovered my  passion for programming.  This lead me on the path to Makers Academy to pursue a career in program development. 
+I took it upon myself to teach myself basic coding in my spare time as I felt that HTML and CSS would be beneficial to my previous role as Digital Assistant and it wasn’t long before I discovered my  passion for programming. This lead me on the path to Makers Academy to pursue a career in program development. 
  
 I find coding to be enjoyable and mentally stimulating and I am determined to make a successful career in it.
 
