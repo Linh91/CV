@@ -66,7 +66,7 @@ BA Hons Law
 ## Experience
 **Global Blue** (September 2012 to January 2017)    
 *Digital Assistant*<br />
-I was an integral individual to the Digital team with a variety of responsibilities.
+I was an integral individual to the Digital team with a variety of responsibilities.<br>
 **Responsibilities - Web Development**
 -	Responsible for maintaining the companies five in-house websites via the CMS
 -	Assisting the development team with website migration, design projects, cross-browser and quality assurance testing
