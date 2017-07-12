@@ -90,4 +90,5 @@ Working within a team teaching and raising awareness of hygiene and sanitation t
 
 ## Interests
 I believe keeping active is important for both the body/mind and I strength train regularly. I am also part of the London Fight Factory where I train in Brazilian Jujitsu.
+
 I have a passion for traveling and a sense of adventure. I have been fortunate to have backpacked across the world and have spent three life changing months volunteering in Tanzania. Here, I was able to experience a world that was completely outside of my comfort zone and left with a more positive and grateful attitude to life.
