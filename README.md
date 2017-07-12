@@ -9,6 +9,22 @@ An enthusiastic and driven individual who is able to rise up to challenges outsi
 My thirst for knowledge led me to teach myself basic HTML and CSS in my spare time which I found to be mentally stimulating. At this point, I decided programming would be the future for me and began my journey with Makers Academy.
 
 The next phase of this journey is to become a **Full-Stack Developer** in an exciting environment where I can continue to learn and further my skills.
+
+## Projects
+
+<strong> [Platypus Web Browser](https://github.com/ffasolin/web-browser) </strong><br>
+A web brower with HTML parser, renderer and requester written without any libraries.<br>
+<strong>*Technologies: JavaScript, Blessed, Node.js Tested with Jasmine* </strong><br>
+<strong> [Gringrott's Bank](https://github.com/Linh91/gringrotts-bank/blob/master/README.md) </strong><br>
+A bank simple bank programme, to help wizards and witches withdraw, deposit and check statement / balance.<br>
+<strong>*Technologies: Javascript, Tested with Jasmine* </strong><br>
+<strong> [Thermostat](https://github.com/Linh91/thermostat_js) </strong><br>
+Turn up the heat! This is a thermostate app built using JavaScript.<br>
+<strong>*Technologies: Javascript, Tested with Jasmine* </strong><br>
+<strong> [WWE - Battle](https://github.com/Linh91/battle)</strong> <br>
+Basic battle game, with a minimum of 2 players that are able to attack.<br>
+<strong>*Technologies: Ruby, Sinatra, Tested with Capybara and RSpec* </strong><br>
+
 ## Skills
 #### Fast learner
 
