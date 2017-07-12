@@ -23,7 +23,7 @@ Turn up the heat! This is a thermostate app built using JavaScript. Tested with 
 <strong>*Technologies: Javascript, Jasmine* </strong><br>
 <strong> [WWE - Battle](https://github.com/Linh91/battle)</strong> <br>
 Basic battle game, with a minimum of 2 players that are able to attack. Tested with Capybara and RSpec<br>
-<strong>*Technologies: Ruby, Sinatra, Capybara and RSpec* </strong><br>
+<strong>*Technologies: Ruby, Sinatra, Capybara, RSpec* </strong><br>
 
 ## Skills
 #### Fast learner
