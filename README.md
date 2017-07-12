@@ -14,16 +14,16 @@ The next phase of this journey is to become a **Full-Stack Developer** in an exc
 
 <strong> [Platypus Web Browser](https://github.com/ffasolin/web-browser) </strong><br>
 A web brower with HTML parser, renderer and requester written without any libraries.<br>
-<strong>*Technologies: JavaScript, Blessed, Node.js Tested with Jasmine* </strong><br>
+<strong>*Technologies: JavaScript, Blessed, Node.js, tested with Jasmine* </strong><br>
 <strong> [Gringrott's Bank](https://github.com/Linh91/gringrotts-bank/blob/master/README.md) </strong><br>
 A bank simple bank programme, to help wizards and witches withdraw, deposit and check statement / balance.<br>
-<strong>*Technologies: Javascript, Tested with Jasmine* </strong><br>
+<strong>*Technologies: Javascript, tested with Jasmine* </strong><br>
 <strong> [Thermostat](https://github.com/Linh91/thermostat_js) </strong><br>
 Turn up the heat! This is a thermostate app built using JavaScript.<br>
-<strong>*Technologies: Javascript, Tested with Jasmine* </strong><br>
+<strong>*Technologies: Javascript, tested with Jasmine* </strong><br>
 <strong> [WWE - Battle](https://github.com/Linh91/battle)</strong> <br>
 Basic battle game, with a minimum of 2 players that are able to attack.<br>
-<strong>*Technologies: Ruby, Sinatra, Tested with Capybara and RSpec* </strong><br>
+<strong>*Technologies: Ruby, Sinatra, tested with Capybara and RSpec* </strong><br>
 
 ## Skills
 #### Fast learner
