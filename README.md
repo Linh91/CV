@@ -67,15 +67,17 @@ BA Hons Law
 **Global Blue** (September 2012 to January 2017)    
 *Digital Assistant*<br />
 I was an integral individual to the Digital team with a variety of responsibilities.
-<strong> Responsibilities - Web Development</strong><br>
+
+**Responsibilities - Web Development**
 -	Responsible for maintaining the companies five in-house websites via the CMS
 -	Assisting the development team with website migration, design projects, cross-browser and quality assurance testing
--	Maintenance of HTML pages using CSS<br>
-<strong> Responsibilities - Ad Operations</strong><br>
+-	Maintenance of HTML pages using CSS
+
+**Responsibilities - Ad Operations**
 -	Setting up and trafficking adverts for client campaigns in DFP (DoubleClick for Publishers)
 -	Monitoring campaigns, implementing optimisations and forecasting inventory
--	Creating and editing creatives using Photoshop and InDesign<br>
-<strong> Responsibilities - Content Editor</strong><br>
+-	Creating and editing creatives using Photoshop and InDesign
+**Responsibilities - Content Editor**
 -	Providing Content Management System (Escenic) training and support to other teams
 -	Creating, optimizing and managing content for commercial microsites and digital campaigns
 
