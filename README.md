@@ -21,9 +21,9 @@ A simple bank programme, to help wizards and witches withdraw, deposit and check
 <strong> [Thermostat](https://github.com/Linh91/thermostat_js) </strong><br>
 Turn up the heat! This is a thermostate app built using JavaScript. Tested with Jasmine<br>
 <strong>*Technologies: Javascript, Jasmine* </strong><br>
-<strong> [WWE - Battle](https://github.com/Linh91/battle)</strong> <br>
-Basic battle game, with a minimum of 2 players that are able to attack. Tested with Capybara and RSpec<br>
-<strong>*Technologies: Ruby, Sinatra, Capybara, RSpec* </strong><br>
+<strong> [An illogical approach to life](https://github.com/immafirestarter/An-illogical-approach-to-life)</strong> <br>
+A web-based turn-based RPG game with  user accounts and simple world map. A project built with a team of 5 which included pairing programming. <br>
+<strong>*AngularJS, Express, Node.js,  MongoDB, HTML, CSS* </strong><br>
 
 ## Skills
 #### Fast learner
