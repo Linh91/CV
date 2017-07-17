@@ -13,7 +13,7 @@ The next phase of this journey is to become a **Full-Stack Developer** in an exc
 ## Projects
 
 <strong> [Platypus Web Browser](https://github.com/ffasolin/web-browser) </strong><br>
-A web brower with HTML parser, renderer and requester written without any libraries.Tested with Jasmine.<br>
+A command line web browser with HTML parser, renderer and requester written without any libraries.Tested with Jasmine.<br>
 <strong>*Technologies: JavaScript, Blessed, Node.js, Jasmine* </strong><br>
 <strong> [Gringrott's Bank](https://github.com/Linh91/gringrotts-bank/blob/master/README.md) </strong><br>
 A simple bank programme, to help wizards and witches withdraw, deposit and check statement / balance. Tested with Jasmine.<br>
