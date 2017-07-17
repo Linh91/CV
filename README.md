@@ -47,7 +47,7 @@ I took it upon myself to learn basic coding in my spare time as I felt it would 
 I find coding to be enjoyable and mentally stimulating and I am determined to make a successful career in it.
 
 ## Education
-#### Makers Academy (April to June 2017)
+#### Makers Academy (March to June 2017)
 A selective 12 week intensive coding bootcamp.
 
 - Ability to work independently and solve problems
