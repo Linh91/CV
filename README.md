@@ -78,6 +78,7 @@ I was an integral individual to the Digital team with a variety of responsibilit
 ##### Responsibilities - Content Editor #####
 -	Providing Content Management System (Escenic) training and support to other teams
 -	Creating, optimizing and managing content for commercial microsites and digital campaigns
+-	Loading commercial contents and applying SEO keywords and tags
 
 **Freud's Communications** (April 2014 to May 2014)    
 *Public Relations Intern*<br />
