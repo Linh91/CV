@@ -1,4 +1,4 @@
-## Ngoc Linh Sammy Ha
+## Sammy Ha
 
 _Jump to it!_<br>
 [Skills](#skills)  |  [Education](#education)  |  [Experience](#experience)  |  [Interests](#interests) <br>
