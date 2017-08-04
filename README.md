@@ -55,7 +55,7 @@ A selective 12 week intensive coding bootcamp.
 - Ruby, Rails, Javascript, Node.js
 - OOP, TDD, MVC, MVP
 - Sinatra, DataMapper, PostgreSQL
-- RSpec, Capybara, Jasmine
+- RSpec, Capybara, Jasmine, Mocha
 
 #### Middlesex University (2009 – 2013)
 BA Hons Law
